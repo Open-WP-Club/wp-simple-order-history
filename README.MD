@@ -59,6 +59,22 @@ A: Yes, you can modify the columns by filtering the template in your theme or ch
 **Q: Is this plugin compatible with my theme?**
 A: The plugin should work with any WooCommerce-compatible theme.
 
+<!-- OPENWPCLUB_SPONSORS_START -->
+## Open-source supporters
+
+These companies help keep Open WP Club plugins free and maintained.
+
+[![Open WP Club supporters](https://openwpclub.com/sponsorship/supporters.png)](https://openwpclub.com/sponsors/)
+
+## Sponsored placements
+
+Clearly labelled promotional campaigns, separate from our supporters.
+
+[![Open WP Club sponsored placements](https://openwpclub.com/sponsorship/repos/wp-simple-order-history/campaigns.png)](https://openwpclub.com/advertise/)
+
+[Support our work](https://openwpclub.com/sponsors/) · [Discuss a campaign](https://openwpclub.com/advertise/)
+<!-- OPENWPCLUB_SPONSORS_END -->
+
 ## Support
 
 For support, please create an issue in the [GitHub repository](https://github.com/Open-WP-Club/wp-simple-order-history/issues).
