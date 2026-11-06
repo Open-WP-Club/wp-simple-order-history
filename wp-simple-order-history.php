@@ -2,6 +2,7 @@
 
 /**
  * Plugin Name: WP Simple Order History
+ * Tested up to: 7.1.4
  * Plugin URI: https://github.com/Open-WP-Club/wp-simple-order-history
  * Description: Adds a purchase history tab with review functionality to WooCommerce My Account page
  * Version: 1.0.0
@@ -10,7 +11,7 @@
  * Requires at least: 5.8
  * Requires PHP: 7.4
  * WC requires at least: 6.0
- * WC tested up to: 9.0
+ * WC tested up to: 11.2.2
  * License: GPL v2 or later
  */
 
